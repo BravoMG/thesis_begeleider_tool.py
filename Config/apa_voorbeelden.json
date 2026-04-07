@@ -1,0 +1,85 @@
+{
+  "apa_7e_voorbeelden": {
+    "boek": {
+      "format": "Auteur, A. A., & Auteur, B. B. (jaar). Titel: Ondertitel (editie). Uitgever.",
+      "voorbeeld": "Poelmans, P., & Severijnen, O. (2022). De APA-richtlijnen (2e druk). Coutinho."
+    },
+    "boek_met_doi": {
+      "format": "Auteur, A. A. (jaar). Titel. Uitgever. https://doi.org/...",
+      "voorbeeld": "Yin, R. K. (2018). Case study research (6th ed.). Sage. https://doi.org/10.xxxx/xxxx"
+    },
+    "tijdschriftartikel": {
+      "format": "Auteur, A. A., & Auteur, B. B. (jaar). Titel artikel. Titel Tijdschrift, volume(issue), paginas. https://doi.org/...",
+      "voorbeeld": "Gooty, J., Connelly, S., Griffith, J., & Gupta, A. (2010). Leadership, affect and emotions. The Leadership Quarterly, 21(6), 979-1004. https://doi.org/10.1016/j.leaqua.2010.10.005"
+    },
+    "hoofdstuk_in_boek": {
+      "format": "Auteur, A. A. (jaar). Titel hoofdstuk. In B. B. Redacteur (Ed.), Titel boek (pp. xx-xx). Uitgever. https://doi.org/...",
+      "voorbeeld": "Spreng, R. N., & Turner, G. R. (2019). Structure and function of the aging brain. In G. R. Samanez-Larkin (Ed.), The aging brain (pp. 9-43). American Psychological Association. https://doi.org/10.1037/0000143-000"
+    },
+    "rapport": {
+      "format": "Auteur, A. A. (jaar). Titel rapport (Rapport Nr. xxx). Uitgever. URL",
+      "voorbeeld": "Boin, A., 't Hart, P., & Universiteit Utrecht. (2022). Grote stad, langdurige crisis. Crisisplan B.V. https://dspace.library.uu.nl/..."
+    },
+    "krantenartikel": {
+      "format": "Auteur, A. A. (jaar, dag maand). Titel artikel. Krant, p. xx. URL",
+      "voorbeeld": "Smal, E. (2019, 26 oktober). ‘Zuck buck’ nog ver weg. NRC Handelsblad, p. 1."
+    },
+    "webpagina": {
+      "format": "Auteur, A. A. (jaar, dag maand). Titel. Site Naam. URL",
+      "voorbeeld": "Lendering, J. (2019, 27 oktober). Drie centimeter hoog beeldje. Twitter. https://twitter.com/..."
+    },
+    "tweet": {
+      "format": "Auteur, A. A. [@gebruikersnaam]. (jaar, dag maand). Eerste 20 woorden van tweet [Tweet]. Twitter. URL",
+      "voorbeeld": "Lendering, J. [@JonaLendering]. (2019, 27 oktober). Drie centimeter hoog beeldje [Tweet]. Twitter. https://twitter.com/..."
+    },
+    "persoonlijke_communicatie": {
+      "format": "Alleen in tekst: (A. A. Auteur, persoonlijke communicatie, dag maand jaar)",
+      "voorbeeld": "(Kikstra, persoonlijke communicatie, 6 maart 2020)",
+      "opmerking": "Niet opnemen in literatuurlijst!"
+    }
+  },
+  "veelgemaakte_fouten_met_correcties": [
+    {
+      "fout": "'en' in plaats van '&'",
+      "voorbeeld_fout": "Poelmans, P. en Severijnen, O. (2022). Titel. Uitgever.",
+      "correctie": "Poelmans, P., & Severijnen, O. (2022). Titel. Uitgever.",
+      "apa_pagina": 40
+    },
+    {
+      "fout": "Geen punt na initiaal",
+      "voorbeeld_fout": "Mayer, J D (2007). Titel. Tijdschrift.",
+      "correctie": "Mayer, J. D. (2007). Titel. Tijdschrift.",
+      "apa_pagina": 93
+    },
+    {
+      "fout": "Jaartal op verkeerde plaats",
+      "voorbeeld_fout": "Gooty, J. (2010). Leadership, affect and emotions. The Leadership Quarterly, 21(6), 979-1004.",
+      "correctie": "Gooty, J., Connelly, S., Griffith, J., & Gupta, A. (2010). Leadership...",
+      "apa_pagina": 96
+    },
+    {
+      "fout": "Geen DOI bij journalartikel",
+      "voorbeeld_fout": "Mayer, J. D. (2007). Human abilities. Annual Review of Psychology, 59(1), 507-536.",
+      "correctie": "Mayer, J. D. (2007). Human abilities. Annual Review of Psychology, 59(1), 507-536. https://doi.org/10.1146/annurev.psych.59.103006.093646",
+      "apa_pagina": 100
+    },
+    {
+      "fout": "Hoofdletters in titel onjuist",
+      "voorbeeld_fout": "Human Abilities: Emotional Intelligence",
+      "correctie": "Human abilities: Emotional intelligence",
+      "apa_pagina": 97
+    },
+    {
+      "fout": "Geen paginanummers bij citaat",
+      "voorbeeld_fout": "Volgens Goleman (1995) is 'emotionele intelligentie cruciaal'.",
+      "correctie": "Volgens Goleman (1995) is 'emotionele intelligentie cruciaal' (p. 45).",
+      "apa_pagina": 34
+    },
+    {
+      "fout": "Niet-alfabetische volgorde",
+      "voorbeeld_fout": "Zwaan, A. (2020).\nAalbers, B. (2019).\nJansen, C. (2021).",
+      "correctie": "Aalbers, B. (2019).\nJansen, C. (2021).\nZwaan, A. (2020).",
+      "apa_pagina": 91
+    }
+  ]
+}

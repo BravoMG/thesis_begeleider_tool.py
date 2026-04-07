@@ -1,0 +1,222 @@
+================================================================================
+STUDENT INFORMATIE - MASTER THESIS BESTUURSKUNDE
+Erasmus Universiteit Rotterdam
+================================================================================
+
+[ALGEMENE GEGEVENS]
+Studentnaam: [JOUW NAAM]
+Studentnummer: [JOUW STUDENTNUMMER]
+E-mail: [JOUW E-MAIL]
+Telefoon: [JOUW TELEFOONNUMMER]
+
+[SCRIPTIE GEGEVENS]
+Titel: Emotionele Intelligentie in Publiek Crisisleiderschap: Een Analyse van Mark Rutte en Hugo de Jonge tijdens de COVID-19 Crisis in 2021
+Specialisatie: Beleid & Politiek (of jouw specialisatie)
+Begeleider: Dr. E. Erasmus
+Tweede beoordelaar: [NAAM TWEEDE BEOORDELAAR]
+Datum indiening: [DATUM]
+
+[STAGE GEGEVENS]
+Stageorganisatie: [JOUW STAGEORGANISATIE]
+Afdeling: [JOUW AFDELING]
+Stagebegeleider: [NAAM STAGEBEGELEIDER]
+Startdatum stage: [STARTDATUM]
+Einddatum stage: [EINDDATUM]
+Aantal uren per week: [AANTAL UREN]
+Totaal aantal stage-uren: [TOTAAL]
+
+===============================================================================
+HOOFDSTUK 1: INLEIDING
+===============================================================================
+
+[PROBLEEMSTELLING]
+Doelstelling: Het doel van dit onderzoek is het analyseren welke kenmerken van 
+emotionele intelligentie (EI) zichtbaar waren in het publiek leiderschap van 
+Mark Rutte en Hugo de Jonge tijdens de COVID-19 crisis in 2021.
+
+Hoofdvraag: Welke kenmerken van emotionele intelligentie hebben Mark Rutte en 
+Hugo de Jonge vertoond in hun publieke leiderschap tijdens het managen van de 
+COVID-19 crisis in 2021?
+
+Deelvraag 1: Welke kenmerken of dimensies van emotionele intelligentie worden 
+in de theoretische literatuur gezien als het meest relevant voor publiek 
+leiderschap in een langdurige crisissituatie?
+
+Deelvraag 2: Hoe hebben Mark Rutte en Hugo de Jonge deze theoretisch relevante 
+EI-kenmerken in de praktijk getoond tijdens hun publieke optredens in 2021?
+
+Deelvraag 3: Hoe relateerden de door hen getoonde EI-kenmerken (of het gebrek 
+daaraan) zich tot de publieke perceptie en het vertrouwen in hun leiderschap 
+tijdens deze periode?
+
+Deelvraag 4: Welke praktische lessen en aanbevelingen voor de ontwikkeling van 
+crisisleiderschap in de publieke sector kunnen uit deze analyse worden getrokken?
+
+Wetenschappelijke relevantie: Het onderzoek draagt bij aan de bestuurskundige 
+en leiderschapsliteratuur door het abstracte theoretische concept van 
+emotionele intelligentie te operationaliseren en te toetsen aan concrete 
+empirische observaties in een unieke crisissituatie.
+
+Maatschappelijke relevantie: De inzichten kunnen worden gebruikt in training- 
+en coachingprogramma's voor (toekomstige) hoge ambtenaren, burgemeesters en 
+andere publieke leiders.
+
+===============================================================================
+HOOFDSTUK 2: THEORETISCH KADER
+===============================================================================
+
+[THEORIEËN GEBRUIKT]
+- Ability-model van Mayer & Salovey (1997): EI als cognitieve intelligentie
+- Gemengde model van Goleman (1995, 1998): vier kerncompetenties
+- Bar-on model (1997): emotionele en sociale bekwaamheden
+
+[CONCEPTUEEL MODEL]
+Kerncompetenties (Goleman, 1998):
+1. Zelfbewustzijn - Herkennen van eigen emoties, sterktes, zwaktes
+2. Zelfregulatie - Beheersen en constructief inzetten van eigen emoties
+3. Empathie - Waarnemen, begrijpen en serieus nemen van emoties van anderen
+4. Sociale vaardigheden - Relaties opbouwen, beïnvloeden, conflicten managen
+
+[AANVULLENDE CONTEXT]
+- Publiek leiderschap verschilt van privaat: meervoudige verantwoordingsplicht
+- Crisismanagement: betekenisgeving, besluitvorming, coördinatie, communicatie, verantwoording
+- Protracted crisis fase (2021): politisering, uitleg en vertrouwensherstel centraal
+
+===============================================================================
+HOOFDSTUK 3: METHODOLOGIE
+===============================================================================
+
+[ONDERZOEKSSTRATEGIE]
+Strategie: Kwalitatieve meervoudige casestudy (Yin, 2018)
+Casussen: Mark Rutte (minister-president) en Hugo de Jonge (minister VWS)
+Context: COVID-19 crisis in Nederland, specifiek jaar 2021
+
+[DATAVERZAMELING]
+Type bronnen:
+- Persconferenties (5 stuks: 2 feb, 23 mrt, 9 jul, 14 sep, 14 dec 2021)
+- Kamerdebat (10 maart 2021)
+- Totaal geanalyseerde fragmenten: 2.673 (Rutte: 1.056, De Jonge: 1.617)
+
+Selectiecriteria:
+1. Relevantie: leider is hoofdspreker over COVID-19
+2. Tijdsafbakening: kalenderjaar 2021
+3. Toegankelijkheid: volledige transcripties publiek beschikbaar
+
+[ANALYSEMETHODE]
+Methode: Thematische inhoudsanalyse (Braun & Clarke, 2006)
+Twee fasen:
+- Fase 1: Deductieve codering op basis van conceptueel model (a priori codes)
+- Fase 2: Inductieve zoektocht naar aanvullende thema's
+Software: ATLAS.ti
+
+[KWALITEITSWAARBORGING]
+- Triangulatie van bronnen (verschillende momenten en settingen)
+- Audit trail (alle stappen gedocumenteerd)
+- Gestandaardiseerd codeboek
+
+[ETHISCHE OVERWEGINGEN]
+- Alleen publiek toegankelijke documenten gebruikt
+- Geen dataverzameling onder menselijke proefpersonen
+- Nederlandse Gedragscode Wetenschappelijke Integriteit (2018) gevolgd
+
+===============================================================================
+HOOFDSTUK 4: RESULTATEN (SAMENVATTING)
+===============================================================================
+
+[ZELFREGULATIE]
+Rutte: Consistente, ingetogen beheersing; 'boven de partijen staan' houding
+De Jonge: Vakinhoudelijke regulatie; bleef rustig onder permanent vuur
+
+[EMPATHIE]
+Rutte: Indirecte empathie; herkenbare, alledaagse formuleringen
+De Jonge: Directe en persoonlijke empathie; expliciet gericht op specifieke groepen
+
+[SOCIALE VAARDIGHEDEN]
+Rutte: Coördinerend verbinder op bestuurlijk niveau
+De Jonge: Bruggenbouwer tussen beleid en uitvoering
+
+[ZELFBEWUSTZIJN]
+Rutte: Reflectief leiderschap; erkennen van onzekerheden en beperkingen
+De Jonge: Kwetsbaarheid en verantwoordelijkheid; erkennen van fouten
+
+===============================================================================
+HOOFDSTUK 5: CONCLUSIES & AANBEVELINGEN
+===============================================================================
+
+[CONCLUSIE]
+Zowel Rutte als De Jonge hebben de vier EI-kenmerken (zelfbewustzijn, 
+zelfregulatie, empathie, sociale vaardigheden) getoond, maar op 
+verschillende wijzen:
+
+- Rutte (macro-stijl): ingetogen, reflectief, coördinerend
+- De Jonge (micro-stijl): direct, persoonlijk, vakinhoudelijk
+
+[AANBEVELINGEN]
+1. Omarm diversiteit in leiderschapsstijlen binnen crisisteams
+2. Investeer in op maat gemaakte EI-training
+3. Bereid leiders voor op valkuilen van hun eigen stijl
+4. Versterk mediageletterdheid en weerbaarheid
+5. Stimuleer een cultuur van collegiale reflectie
+
+[REFLECTIE ONDERZOEK]
+- Conceptueel model was zeer nuttig voor gestructureerde analyse
+- Uitdaging: objectief blijven bij interpreteren van emotionele uitingen
+- Beperking: alleen publieke bronnen, geen interne setting
+
+===============================================================================
+[WOORDENAANTAL]
+Totaal aantal woorden (hoofdtekst): ~11.000
+Maximaal toegestaan: 12.000
+Status: ✅ Akkoord - binnen limiet
+
+===============================================================================
+[BRONVERMELDING - APA 7e editie]
+===============================================================================
+
+Mayer, J. D., Roberts, R. D., & Barsade, S. G. (2007). Human abilities: 
+Emotional intelligence. Annual Review of Psychology, 59(1), 507-536.
+https://doi.org/10.1146/annurev.psych.59.103006.093646
+
+Gooty, J., Connelly, S., Griffith, J., & Gupta, A. (2010). Leadership, affect 
+and emotions: A state of the science review. The Leadership Quarterly, 21(6), 
+979-1004. https://doi.org/10.1016/j.leaqua.2010.10.005
+
+Boin, A., & 't Hart, P. (2022). From crisis to reform? Exploring three 
+post-COVID pathways. Policy and Society, 41(1), 13-24.
+https://doi.org/10.1093/polsoc/puab007
+
+Tummers, L. (2017). Publiek leiderschap: Inleiding in de basisprincipes. 
+Management Impact.
+
+Yin, R. K. (2018). Case study research and applications (6th ed.). Sage.
+
+Braun, V., & Clarke, V. (2006). Using thematic analysis in psychology. 
+Qualitative Research in Psychology, 3(2), 77-101.
+https://doi.org/10.1191/1478088706qp063oa
+
+Goleman, D. (1995). Emotionele intelligentie. Contact.
+
+Goleman, D. (1998). Working with emotional intelligence. Bloomsbury.
+
+===============================================================================
+[CHECKLIST - AFVINKEN WAT IS INGELEVERD]
+===============================================================================
+[x] Titelblad
+[x] Samenvatting (in hoofstuk 5.1)
+[x] Inhoudsopgave
+[x] Hoofdstuk 1: Inleiding
+[x] Hoofdstuk 2: Theorie
+[x] Hoofdstuk 3: Methode
+[x] Hoofdstuk 4: Resultaten
+[x] Hoofdstuk 5: Conclusies
+[x] Literatuurlijst (APA-stijl, met kleine correcties nodig)
+[x] Bijlagen (indien aanwezig)
+
+[EXTRA OPMERKINGEN VOOR BEGELEIDER]
+- Let op: bronvermelding heeft kleine APA-correcties nodig (zie hierboven)
+- De transcripties van persconferenties zijn beschikbaar als bijlage
+- De analyse in ATLAS.ti is beschikbaar op verzoek
+
+================================================================================
+EINDE STUDENT INPUT
+================================================================================

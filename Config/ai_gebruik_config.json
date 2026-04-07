@@ -1,0 +1,90 @@
+{
+  "bronnen": [
+    "VUB. (2023). Verantwoord gebruik van artificiële intelligentie voor onderzoeksdoeleinden.",
+    "Universiteit Utrecht, Faculteit REBO. (2025). Richtlijnen voor studenten voor het gebruik van AI in Afstudeerwerken."
+  ],
+  "toegestaan_ai_gebruik": {
+    "ideeën_opdoen": {
+      "beschrijving": "Brainstormen over onderwerp, structuur, invalshoeken.",
+      "verplichtingen": ["Logboek bijhouden", "Vermelden in methodologie"],
+      "voorbeeld_tools": ["ChatGPT", "Elicit", "Perplexity"]
+    },
+    "literatuur_verkennen": {
+      "beschrijving": "AI gebruiken om relevante literatuur te identificeren en te screenen.",
+      "verplichtingen": ["Altijd zelf lezen en controleren", "Geen automatische citaties overnemen"],
+      "voorbeeld_tools": ["Elicit", "Research Rabbit", "Connected Papers", "Scite"]
+    },
+    "tekst_controleren": {
+      "beschrijving": "Grammatica, spelling, stijlverbeteringen (geen herschrijven van inhoud).",
+      "verplichtingen": ["Alleen op eigen, reeds geschreven tekst", "Logboek bijhouden"],
+      "voorbeeld_tools": ["Grammarly", "Writefull", "ChatGPT (beperkt)"]
+    },
+    "samenvatten_eigen_notities": {
+      "beschrijving": "Eigen aantekeningen of bullet points uitwerken in lopende tekst.",
+      "verplichtingen": ["Inhoud blijft van student", "Controleren op fouten"],
+      "voorbeeld_tools": ["ChatGPT", "Claude"]
+    },
+    "code_generatie": {
+      "beschrijving": "Onderdelen van software of scripts helpen schrijven (bv. voor data-analyse).",
+      "verplichtingen": ["Code controleren op uitvoerbaarheid", "Vermelden in methodologie"],
+      "voorbeeld_tools": ["GitHub Copilot", "Code Interpreter (GPT-4)"]
+    }
+  },
+  "niet_toegestaan_ai_gebruik": [
+    {
+      "actie": "Hele stukken tekst laten genereren",
+      "reden": "Plagiaat / fraude (art. 5.17/5.18 OER)",
+      "sanctie": "Kan leiden tot onvoldoende beoordeling"
+    },
+    {
+      "actie": "Bronnen, argumenten of samenvattingen van literatuur laten genereren",
+      "reden": "Ondermijnt academische vaardigheden en bronintegriteit"
+    },
+    {
+      "actie": "Tekst laten parafraseren of herschrijven",
+      "reden": "Is geen eigen werk meer"
+    },
+    {
+      "actie": "Privé-, vertrouwelijke of auteursrechtelijk beschermde informatie delen",
+      "reden": "Privacy- en auteursrechtenschending (AVG)"
+    },
+    {
+      "actie": "AI gebruiken voor peer-review van medestudenten",
+      "reden": "Ondermijnt vertrouwelijkheid en leerdoelen"
+    }
+  ],
+  "verplichtingen_student": [
+    {
+      "onderdeel": "Logboek bijhouden",
+      "eis": "Bijhouden van datum, tool, prompt, output en reflectie (zie template in bijlage)",
+      "controle": "Begeleider kan altijd inzage vragen"
+    },
+    {
+      "onderdeel": "Versiegeschiedenis",
+      "eis": "Nieuwe versie opslaan na elke werksessie",
+      "controle": "Toonbaar op verzoek"
+    },
+    {
+      "onderdeel": "Methodologische verantwoording",
+      "eis": "Gebruik van AI beschrijven in Methodologie-hoofdstuk",
+      "voorbeeld": "'Voor het verkennen van literatuur is gebruik gemaakt van Elicit (versie ...).'"
+    },
+    {
+      "onderdeel": "Bronverwijzing naar AI",
+      "eis": "Indien AI als bron is gebruikt (bv. citaat), correct vermelden",
+      "voorbeeld": "(OpenAI, 2023) of (ChatGPT, persoonlijke communicatie, datum)"
+    },
+    {
+      "onderdeel": "Eigen verantwoordelijkheid",
+      "eis": "Student is altijd verantwoordelijk voor alle ingeleverde inhoud, inclusief AI-output",
+      "sanctie": "Fouten of plagiaat in AI-output zijn voor rekening student"
+    }
+  ],
+  "ai_index_niveaus": {
+    "0_geen_ai": "Geen AI-gebruik toegestaan.",
+    "1_ondersteunde_ideeën": "AI voor brainstormen en structureren, geen AI-inhoud in eindversie.",
+    "2_bewerking_eigen_werk": "AI voor grammatica- en stijlverbeteringen op eigen tekst.",
+    "3_gespecificeerde_taken": "AI voor bepaalde taken (bv. code), met duidelijke citatie.",
+    "4_volledig_gebruik_met_toezicht": "AI als copiloot, student houdt eindverantwoordelijkheid."
+  }
+}

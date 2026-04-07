@@ -1,0 +1,147 @@
+{
+  "opleiding": "Master Bestuurskunde",
+  "universiteit": "Erasmus Universiteit Rotterdam",
+  "jaar": "2023-2024",
+  "handleiding": "Handleiding Afstudeertraject Master Bestuurskunde 2023-2024",
+  
+  "scriptie_vereisten": {
+    "max_woorden": 12000,
+    "exclusief_van_telling": [
+      "samenvatting",
+      "titelpagina",
+      "inhoudsopgave",
+      "lijst_van_tabellen",
+      "voorwoord",
+      "literatuurlijst",
+      "bijlagen"
+    ],
+    "verplichte_hoofdstukken": [
+      "Inleiding",
+      "Theorie",
+      "Methode",
+      "Resultaten",
+      "Conclusies"
+    ],
+    "aanbevolen_omvang_percentages": {
+      "Inleiding": 10,
+      "Theorie": {"min": 20, "max": 25},
+      "Methode": {"min": 15, "max": 20},
+      "Resultaten": {"min": 35, "max": 40},
+      "Conclusies": {"min": 15, "max": 20}
+    }
+  },
+  
+  "titelblad_vereisten": [
+    "titel_met_ondertitel",
+    "naam_author",
+    "studentnummer",
+    "erasmus_universiteit_rotterdam",
+    "master_bestuurskunde",
+    "specialisatie",
+    "begeleider_naam",
+    "tweede_beoordelaar_naam",
+    "datum_afronding"
+  ],
+  
+  "stage_vereisten": {
+    "min_uren": 280,
+    "max_dagen_per_week": 4,
+    "sector": "publieke_sector",
+    "toegestaan_met_overleg": [
+      "maatschappelijke_organisaties",
+      "overheidsdeelnemingen",
+      "consultancy_publieke_sector",
+      "lobby_publieke_sector"
+    ],
+    "niet_toegestaan": [
+      "private_organisaties_zonder_overleg",
+      "familiebedrijven",
+      "volledig_online_zonder_crisis"
+    ]
+  },
+  
+  "beoordelingscriteria": {
+    "1_probleemstelling": {
+      "gewicht": 1,
+      "onvoldoende": "Probleemstelling is onduidelijk en/of zwak gefocust",
+      "voldoende": "Probleemstelling is voldoende gefocust en navolgbaar",
+      "goed": "Heldere, goed gefocuste probleemstelling met originele elementen",
+      "excellent": "Zeer ambitieuze, wetenschappelijk vernieuwende probleemstelling"
+    },
+    "2_theorie": {
+      "gewicht": 2,
+      "onvoldoende": "Geen of gebrekkig gebruik van theorie",
+      "voldoende": "Gebruikt relevante 'gekende' literatuur",
+      "goed": "Diepgaand en doordacht gebruik van relevante theorie",
+      "excellent": "Zeer diepgaande bespreking met innovatieve eigen bijdrage"
+    },
+    "3_onderzoeksopzet": {
+      "gewicht": 2,
+      "onvoldoende": "Methodologie sluit niet aan bij probleemstelling",
+      "voldoende": "Methodologie biedt voldoende basis",
+      "goed": "Methodologie biedt goede basis met goede argumentatie",
+      "excellent": "Uitstekend beargumenteerde methodologische keuzes"
+    },
+    "4_analyse": {
+      "gewicht": 2,
+      "onvoldoende": "Bevindingen onduidelijk, analyse bevat fouten",
+      "voldoende": "Adequate structuur, correcte redeneringen",
+      "goed": "Systematische analyse met scherpe interpretatie",
+      "excellent": "Zeer goede, vernieuwende analyse"
+    },
+    "5_conclusies": {
+      "gewicht": 1,
+      "onvoldoende": "Hoofdvraag zwak beantwoord",
+      "voldoende": "Hoofdvraag in grote lijnen beantwoord",
+      "goed": "Hoofdvraag diepgaand beantwoord",
+      "excellent": "Diepgaand antwoord met aanvulling op literatuur"
+    },
+    "6_reflectie": {
+      "gewicht": 1,
+      "onvoldoende": "Reflectie gebrekkig of ontbreekt",
+      "voldoende": "Correcte maar oppervlakkige reflectie",
+      "goed": "Goede reflectie met scherpe beperkingsanalyse",
+      "excellent": "Diep inzicht in kwaliteiten en beperkingen"
+    },
+    "7_helderheid": {
+      "gewicht": 1,
+      "onvoldoende": "Zwakke structuur, veel taalfouten",
+      "voldoende": "Adequate structuur, correct taalgebruik",
+      "goed": "Uitstekende structuur, goede schrijfstijl",
+      "excellent": "Prachtig geschreven met precieze formuleringen"
+    },
+    "8_proces": {
+      "gewicht": 1,
+      "onvoldoende": "Onvoldoende zelfstandigheid of vertraging",
+      "voldoende": "Voldoende zelfstandigheid en communicatie",
+      "goed": "Goede zelfstandigheid en voortgang",
+      "excellent": "Hoge mate van eigen inbreng en creativiteit"
+    }
+  },
+  
+  "cijferbepaling": {
+    "methode": "gewogen_gemiddelde",
+    "fundamentele_fout_leidt_tot_onvoldoende": true,
+    "derde_beoordelaar_bij": {
+      "verschil_meer_dan_1_5_punt": true,
+      "een_beoordelaar_onvoldoende_andere_voldoende": true
+    }
+  },
+  
+  "deadlines": {
+    "aanmelden_stage_onderwerp": "begin december",
+    "start_stage": "begin blok 3 (januari)",
+    "concept_scriptie": "week 25-26",
+    "definitieve_scriptie": "2 augustus 16:59u",
+    "cijfers_bekend": "eind augustus"
+  },
+  
+  "bronvermelding": {
+    "stijl": "APA 7e editie",
+    "verplichte_elementen": [
+      "auteur_jaartal",
+      "titel",
+      "bron_uitgever"
+    ]
+  }
+}

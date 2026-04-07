@@ -1,0 +1,106 @@
+{
+  "apa_7_nl": {
+    "bron": "APA7 NL: De APA-richtlijnen uitgelegd met behulp van Word (versie 1.2)",
+    "installatie": {
+      "windows": {
+        "download_url": "https://auteursrechten.nl/wp-content/uploads/2025/10/APASeventhEditionNL-1.0.2_1.zip",
+        "stappen": [
+          "Download het zipbestand",
+          "Pak het zipbestand uit in de map Downloads",
+          "Klik met rechtermuisknop op het zip-bestand en kies 'Alles uitpakken'",
+          "Klik op 'Installeer APASeventhEditionNL voor Word' en 'Uitvoeren'",
+          "Start Word opnieuw op"
+        ]
+      },
+      "macos": {
+        "download_url": "https://auteursrechten.nl/wp-content/uploads/2025/06/APASeventhEditionNL-1.0.2-1.xsl",
+        "stappen": [
+          "Download het .xsl-bestand",
+          "Kopieer het .xsl-bestand",
+          "Ga naar /Applications/Microsoft Word.app/Contents/Resources/style (gebruik ⌘ ⇧ G)",
+          "Plak het bestand in deze map (gebruik ⌘ V, niet slepen)",
+          "Start Word opnieuw op"
+        ]
+      }
+    },
+    "verwijzingen_in_tekst": {
+      "voorbeeld": "(Van der Donk & Van Lanen, 2019)",
+      "aantal_auteurs": {
+        "1_auteur": "(Achternaam, jaar)",
+        "2_auteurs": "(Achternaam1 & Achternaam2, jaar)",
+        "3_of_meer_auteurs": "(Achternaam1 et al., jaar)"
+      },
+      "auteur_in_lopende_tekst": {
+        "voorbeeld": "Van der Donk en Van Lanen (2019) stellen dat...",
+        "opmerking": "Onderdruk de naam in de haakjes via de rechter muisknop"
+      },
+      "citaat_met_paginanummer": {
+        "voorbeeld": "(Van der Donk & Van Lanen, 2019, p. 45)",
+        "hoe": "Via rechter muisknop → 'Citaat bewerken' → paginanummer toevoegen"
+      },
+      "converteren_naar_statische_tekst": {
+        "hoe": "Rechter muisknop → 'Citaat converteren naar statische tekst'",
+        "opmerking": "Daarna handmatig bewerkbaar, maar niet meer automatisch updatebaar"
+      }
+    },
+    "bronnenlijst": {
+      "alfabetische_volgorde": true,
+      "hanging_indent": true,
+      "toevoegen": "Tabblad 'Verwijzingen' → Bibliografie → Bibliografie invoegen"
+    },
+    "speciale_gevallen": {
+      "zelfde_auteur_zelfde_jaar": {
+        "probleem": "Word voegt standaard titel toe in verwijzing",
+        "oplossing": "Handmatig aanpassen naar (Achternaam, 2024a) en (Achternaam, 2024b)",
+        "voorbeeld_fout": "(Daams, Schaatsers moeten voortaan helm op in stadion Thialf, 2024)",
+        "voorbeeld_goed": "(Daams, 2024b)",
+        "volgorde": "Eerste in bronnenlijst krijgt 'a', tweede krijgt 'b'"
+      },
+      "organisatie_als_auteur": {
+        "hoe": "Vink 'Auteur van organisatie' aan in Word",
+        "opmerking": "Laat 'Naam van de website' leeg als die gelijk is aan organisatie"
+      },
+      "geen_persoonlijke_auteur": {
+        "hoe": "Organisatie invullen bij auteur",
+        "voorbeeld": "Rijksinstituut voor Volksgezondheid en Milieu. (2020)."
+      },
+      "hoofdstuk_uit_boek": {
+        "hoe": "Auteur hoofdstuk bij auteur, redacteur bij 'Redacteur' veld",
+        "aanpassing": "Handmatig 'pp.' toevoegen voor paginanummers",
+        "voorbeeld": "Bloemendal-Hol, S. (2010). Stief zonder moeder. In N. Brezesowsky (Red.), De bonusmoeder (pp. 141-148). Artemis."
+      }
+    },
+    "brontypen": {
+      "boek": {
+        "velden": ["auteur", "titel", "jaar", "uitgever", "editie"],
+        "tussenvoegsels": "Zet bij achternaam: 'Van der Donk'"
+      },
+      "hoofdstuk_uit_boek": {
+        "velden": ["auteur_hfdst", "jaar", "titel_hfdst", "redacteur", "titel_boek", "paginas", "uitgever"],
+        "extra_stap": "Handmatig 'pp.' toevoegen voor paginanummers"
+      },
+      "tijdschriftartikel": {
+        "velden": ["auteur", "jaar", "titel", "tijdschrift", "volume", "issue", "paginas", "doi"],
+        "online_toevoeging": "DOI of datum van raadplegen en URL"
+      },
+      "krantenartikel": {
+        "velden": ["auteur", "datum", "titel", "krant", "paginas"],
+        "online": "Datum van raadplegen en URL toevoegen"
+      },
+      "website": {
+        "velden": ["auteur", "datum", "titel", "website_naam", "url", "geraadpleegd_op"],
+        "organisatie": "Vink 'Auteur van organisatie' aan"
+      },
+      "audiovisueel": {
+        "velden": ["regisseur", "jaar", "titel", "type", "productiebedrijf"],
+        "voorbeeld": "Nijenhuis, J. (Regisseur). (2020). De beentjes van Sint-Hildegard [Film]. Johan Nijenhuis & Co; September Film."
+      },
+      "generatieve_ai": {
+        "type": "Website",
+        "velden": ["auteur", "titel", "versie", "url"],
+        "versie_veld": "Tussen ronde haken versienummer, daarna tussen vierkante haken 'Generatieve AI'",
+        "voorbeeld": "OpenAI. (2024). ChatGPT (Versie 3.5) [Generatieve AI]. https://chatgpt.com/"
+      }
+    }
+  }
+}

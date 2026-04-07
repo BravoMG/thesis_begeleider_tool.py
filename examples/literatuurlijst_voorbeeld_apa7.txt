@@ -1,0 +1,128 @@
+================================================================================
+LITERATUURLIJST - APA 7e EDITIE
+Master Thesis Bestuurskunde - Erasmus Universiteit Rotterdam
+Onderwerp: Emotionele Intelligentie in Publiek Crisisleiderschap
+================================================================================
+
+LET OP: Dit is een VOORBEELD van correcte APA 7e editie opmaak.
+       Gebruik dit als template voor jouw eigen literatuurlijst.
+
+
+=============================== BOEKEN =======================================
+
+Goleman, D. (1995). Emotionele intelligentie. Contact.
+
+Goleman, D. (1998). Working with emotional intelligence. Bloomsbury.
+
+Poelmans, P., & Severijnen, O. (2022). De APA-richtlijnen: Over 
+    literatuurverwijzing en onderzoeksrapportage (2e, herziene druk). 
+    Coutinho.
+
+Tummers, L. (2017). Publiek leiderschap: Inleiding in de basisprincipes. 
+    Management Impact.
+
+Van Thiel, S. (2021). Bestuurskundig onderzoek: Een methodologische inleiding 
+    (2e druk). Coutinho.
+
+Yin, R. K. (2018). Case study research and applications: Design and methods 
+    (6th ed.). Sage Publications.
+
+
+=============================== BOEKHOOFDSTUKKEN =============================
+
+Spreng, R. N., & Turner, G. R. (2019). Structure and function of the aging 
+    brain. In G. R. Samanez-Larkin (Ed.), The aging brain: Functional 
+    adaptation across adulthood (pp. 9-43). American Psychological Association.
+    https://doi.org/10.1037/0000143-000
+
+
+=============================== TIJDSCHRIFTARTIKELEN ==========================
+
+Ansell, C., Sørensen, E., & Torfing, J. (2020). The COVID-19 pandemic as a 
+    game changer for public administration and leadership? The need for robust 
+    governance responses to turbulent problems. Public Management Review, 
+    23(7), 949-960. https://doi.org/10.1080/14719037.2020.1820272
+
+Boin, A., & 't Hart, P. (2022). From crisis to reform? Exploring three 
+    post-COVID pathways. Policy and Society, 41(1), 13-24.
+    https://doi.org/10.1093/polsoc/puab007
+
+Flyvbjerg, B. (2006). Five misunderstandings about case studies. 
+    Qualitative Inquiry, 12(2), 219-245.
+    https://doi.org/10.1177/1077800405284363
+
+Gooty, J., Connelly, S., Griffith, J., & Gupta, A. (2010). Leadership, affect 
+    and emotions: A state of the science review. The Leadership Quarterly, 
+    21(6), 979-1004. https://doi.org/10.1016/j.leaqua.2010.10.005
+
+Mayer, J. D., Roberts, R. D., & Barsade, S. G. (2007). Human abilities: 
+    Emotional intelligence. Annual Review of Psychology, 59(1), 507-536.
+    https://doi.org/10.1146/annurev.psych.59.103006.093646
+
+
+=============================== RAPPORTEN ====================================
+
+Boin, A., 't Hart, P., & Universiteit Utrecht. (2022). Grote stad, langdurige 
+    crisis: Leren van twee jaar Utrechtse Corona-ervaringen. Crisisplan B.V.
+    https://dspace.library.uu.nl/bitstream/handle/1874/423446/
+
+
+=============================== KRANTENARTIKELEN =============================
+
+Smal, E. (2019, 26 oktober). ‘Zuck buck’ nog ver weg. NRC Handelsblad 
+    [Economie], p. 1.
+
+Reuter, R. (2021, 20 maart). Avondklokrellen: Hoe het uit de hand liep. 
+    De Volkskrant. https://www.volkskrant.nl/... (alleen bij online artikel)
+
+
+=============================== WEBPAGINA\'S EN ONLINE BRONNEN =================
+
+Lendering, J. [@JonaLendering]. (2019, 27 oktober). Drie centimeter hoog 
+    beeldje van een tренende koning op de #Viking-expositie in het 
+    #FriesMuseum. Ik word hier dus echt blij van [foto toegevoegd] [Tweet]. 
+    Twitter. https://twitter.com/JonaLendering/status/...
+
+Rijksinstituut voor Volksgezondheid en Milieu. (2021). Epidemiologische 
+    situatie van SARS-CoV-2 in Nederland. RIVM.
+    https://www.rivm.nl/documenten/epidemiologische-situatie-van-sars-cov-2
+
+
+=============================== PERSOONLIJKE COMMUNICATIE ====================
+(Alleen in tekst vermelden, NIET in literatuurlijst)
+
+Voorbeeld in tekst: (Kikstra, persoonlijke communicatie, 6 maart 2020)
+
+
+=============================== OVERIGE BRONNEN ==============================
+
+'t Hart, P. (2022). De staat van de uitzondering: Leiderschap in de 
+    coronacrisis. In C. van Baalen, P. van der Heiden, & J. van Merriënboer 
+    (Red.), Jaarboek Parlementaire Geschiedenis 2022: De staat van vertrouwen 
+    (pp. 71-85). Boom.
+
+
+================================================================================
+CONTROLELIST APA 7e EDITIE
+================================================================================
+
+✓ Alfabetische volgorde op achternaam eerste auteur
+✓ Gebruik van '&' in plaats van 'en' bij meerdere auteurs
+✓ Jaartal direct na auteur tussen haakjes
+✓ Alleen eerste woord van titel met hoofdletter (tenzij eigennamen)
+✓ Boektitels en tijdschriftnamen cursief (in opmaak)
+✓ DOI toegevoegd bij journalartikelen (https://doi.org/...)
+✓ Geen 'p.' of 'pp.' bij journalartikelen (wel bij boekhoofdstukken)
+✓ Hanging indent (eerste regel niet inspringen, volgende regels wel)
+✓ Dubbele spaties vermeden
+✓ Geen afkortingen van auteurnamen (tenzij meerdere werken zelfde auteur)
+
+================================================================================
+BRON
+================================================================================
+
+Poelmans, P., & Severijnen, O. (2022). De APA-richtlijnen: Over 
+    literatuurverwijzing en onderzoeksrapportage (2e, herziene druk). 
+    Coutinho.
+
+================================================================================

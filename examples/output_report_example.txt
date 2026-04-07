@@ -1,0 +1,306 @@
+================================================================================
+                        THESIS BEGELEIDINGSRAPPORT
+                        Erasmus Universiteit Rotterdam
+                        Master Bestuurskunde
+================================================================================
+
+Student: Marieke de Vries
+Studentnummer: 12345678
+Thesis titel: Emotionele Intelligentie in Publiek Crisisleiderschap:
+              Een Analyse van Mark Rutte en Hugo de Jonge tijdens de
+              COVID-19 Crisis in 2021
+
+Begeleider: Dr. E. Erasmus
+Datum beoordeling: 15 april 2026
+Beoordelingsronde: 1e concept
+
+================================================================================
+SAMENVATTING BEOORDELING
+================================================================================
+
+Totaal aantal feedbackpunten: 12
+Waarvan correcties: 4
+Waarvan waarschuwingen: 3
+Waarvan akkoord: 5
+
+Algehele beoordeling: RUIM VOLDOENDE (7.0-8.0)
+Na correcties: VERWACHT EINDCIJFER 8.0-8.5
+
+================================================================================
+DETAIL FEEDBACK PER ONDERDEEL
+================================================================================
+
+📋 TITELBLAD
+--------------------------------------------------------------------------------
+✅ Titel: aanwezig en duidelijk
+✅ Naam en studentnummer: aanwezig
+✅ Opleiding: Master Bestuurskunde - correct
+✅ Datum: 15 april 2026
+✅ Begeleider: Dr. E. Erasmus - vermeld
+⚠️ Tweede beoordelaar: nog niet ingevuld (toevoegen voor definitieve versie)
+
+➡️ Actie: Voeg de naam van de tweede beoordelaar toe (wordt later toegewezen)
+
+
+📚 HOOFDSTUK 1: INLEIDING
+--------------------------------------------------------------------------------
+✅ Probleemstelling: helder geformuleerd
+✅ Hoofdvraag: "Welke kenmerken van emotionele intelligentie hebben Mark Rutte
+   en Hugo de Jonge vertoond in hun publieke leiderschap tijdens het managen
+   van de COVID-19 crisis in 2021?" - goed geformuleerd
+✅ Deelvragen: 4 deelvragen, logisch afgeleid van hoofdvraag
+✅ Relevantie: wetenschappelijk en maatschappelijk goed onderbouwd
+⚠️ Aanbevolen: voeg een korte paragraaf toe over de afbakening (waarom alleen 2021)
+
+➡️ Actie: voeg 1-2 zinnen toe over de motivatie voor de afbakening op 2021
+
+
+🧠 HOOFDSTUK 2: THEORETISCH KADER
+--------------------------------------------------------------------------------
+✅ EI-modellen: Goleman (1998), Mayer & Salovey (1997) - goed besproken
+✅ Conceptueel model: duidelijk weergegeven in figuur 2.1
+✅ Publiek leiderschap: goede koppeling met bestuurskundige literatuur
+✅ Crisisleiderschap: Boin & 't Hart (2022) - actueel en relevant
+⚠️ Aanbevolen: voeg een paragraaf toe over de specifieke context van 2021
+   (protracted crisis fase)
+
+➡️ Actie: voeg een korte paragraaf toe over de 'protracted crisis' fase
+
+
+🔬 HOOFDSTUK 3: METHODOLOGIE
+--------------------------------------------------------------------------------
+✅ Onderzoeksdesign: kwalitatieve meervoudige casestudy (Yin, 2018) - passend
+✅ Dataverzameling: 6 persconferenties + 1 Kamerdebat - voldoende
+✅ Analysemethode: thematische analyse (Braun & Clarke, 2006) - correct
+✅ Ethiek: informed consent, anonimisering - goed verantwoord
+✅ Betrouwbaarheid: triangulatie, audit trail, codeboek - uitstekend
+
+➡️ Geen correcties nodig voor dit hoofdstuk
+
+
+📊 HOOFDSTUK 4: RESULTATEN EN ANALYSE
+--------------------------------------------------------------------------------
+✅ Tabel 4.1: overzicht fragmenten - correct
+✅ Tabel 4.2: mentions per EI-competentie - compleet
+✅ Tabel 4.3: kwalitatieve voorbeelden - goede illustratie
+✅ Analyse zelfregulatie: beide leiders goed geanalyseerd
+✅ Analyse empathie: complementaire stijlen - scherp gezien
+✅ Analyse sociale vaardigheden: Rutte als coördinerend verbinder - treffend
+✅ Analyse zelfbewustzijn: beide leiders tonen reflectie - goed
+
+⚠️ Aanbevolen: voeg een korte paragraaf toe over de multimodale congruentie
+   (woord, toon, houding)
+
+➡️ Actie: voeg een zin toe over de multimodale congruentie (was in alle
+   fragmenten 'hoog')
+
+
+🎯 HOOFDSTUK 5: CONCLUSIES, DISCUSSIE & AANBEVELINGEN
+--------------------------------------------------------------------------------
+✅ Hoofdvraag beantwoord: ja, duidelijk
+✅ Deelvragen beantwoord: alle 4
+✅ Reflectie op beperkingen: bronnen, publieke perceptie, causaliteit - goed
+✅ Aanbevelingen: 5 concrete aanbevelingen - praktisch toepasbaar
+
+⚠️ Aanbevolen: voeg een paragraaf toe over de bijdrage aan de bestuurskundige
+   wetenschap (wat is de theoretische meerwaarde?)
+
+➡️ Actie: voeg 2-3 zinnen toe over de wetenschappelijke bijdrage
+
+
+📖 LITERATUURLIJST (APA 7e editie)
+--------------------------------------------------------------------------------
+❌ FOUT 1: Gebruik 'en' in plaats van '&'
+   Regel: "Poelmans, P. en Severijnen, O. (2022)"
+   Correctie: "Poelmans, P., & Severijnen, O. (2022)"
+
+❌ FOUT 2: Ontbrekende DOI bij journalartikel
+   Regel: "Gooty, J., Connelly, S., Griffith, J., & Gupta, A. (2010)..."
+   Correctie: voeg toe: "https://doi.org/10.1016/j.leaqua.2010.10.005"
+
+⚠️ FOUT 3: Literatuurlijst niet volledig alfabetisch
+   't Hart, P. staat vooraan, maar zou na Boin, A. moeten
+
+✅ Mayer, J. D. et al. (2007) - correct
+✅ Van Thiel, S. (2021) - correct
+✅ Yin, R. K. (2018) - correct
+
+➡️ Actie: corrigeer bovenstaande APA-fouten volgens Poelmans & Severijnen (2022)
+
+
+🤖 AI-DETECTIE
+--------------------------------------------------------------------------------
+✅ Geen duidelijke AI-indicaties gevonden
+   - Score: 0.08 (ondergrens voor signaal is 0.20)
+   - Eigen stijl herkenbaar
+   - Persoonlijke reflectie aanwezig
+
+➡️ Akkoord, geen actie nodig
+
+
+📝 CITATEN (APA 7e editie)
+--------------------------------------------------------------------------------
+✅ Citaat p. 45: "Ondernemers die het water aan de lippen staat" - met paginanummer
+✅ Citaat p. 67: "Hij gaat niet aftreden" - met paginanummer
+⚠️ Citaat p. 89: geen paginanummer gevonden bij kort citaat (<40 woorden)
+
+➡️ Actie: voeg paginanummer toe bij citaat op pagina 89
+
+
+================================================================================
+GENERERDE TABELLEN VOOR HOOFDSTUK 4
+================================================================================
+
+Hieronder staan de tabellen zoals ze gegenereerd zijn door de tool.
+Deze kunnen direct worden overgenomen in je Word-document.
+
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ Tabel 4.1 - Overzicht van geanalyseerde fragmenten per spreker en per moment │
+├──────────────┬───────────────────┬───────────────┬─────────────────┬────────┤
+│    Datum     │       Type        │    Rutte      │    De Jonge     │ Totaal │
+├──────────────┼───────────────────┼───────────────┼─────────────────┼────────┤
+│ 2 feb 2021   │ Persconferentie   │     104       │      132        │  236   │
+│ 10 mrt 2021  │ Kamerdebat        │     165       │      380        │  545   │
+│ 23 mrt 2021  │ Persconferentie   │     202       │      200        │  402   │
+│ 9 jul 2021   │ Persconferentie   │     112       │      303        │  415   │
+│ 14 sep 2021  │ Persconferentie   │     185       │      338        │  523   │
+│ 14 dec 2021  │ Persconferentie   │     288       │      264        │  552   │
+├──────────────┼───────────────────┼───────────────┼─────────────────┼────────┤
+│ **Totaal**   │                   │   **1056**    │    **1617**     │ **2673**│
+└──────────────┴───────────────────┴───────────────┴─────────────────┴────────┘
+Bron: Analyse persconferenties en Kamerdebat, 2021 (N=2673 fragmenten)
+
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ Tabel 4.2 - Aantal mentions per EI-competentie (Rutte vs De Jonge)         │
+├─────────────────────────────┬───────────────────┬───────────────────────────┤
+│        Competentie          │    Mark Rutte     │      Hugo de Jonge        │
+├─────────────────────────────┼───────────────────┼───────────────────────────┤
+│ Zelfbewustzijn              │        12         │            9              │
+│ Zelfregulatie               │        28         │            31             │
+│ Empathie                    │        19         │            27             │
+│ Sociale vaardigheden        │        17         │            22             │
+├─────────────────────────────┼───────────────────┼───────────────────────────┤
+│ **Totaal**                  │       **76**      │          **89**           │
+└─────────────────────────────┴───────────────────┴───────────────────────────┘
+Bron: Thematische analyse van transcripties (2021)
+
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ Tabel 4.3 - Voorbeelden van EI-kenmerken in citaten van Rutte en De Jonge  │
+├──────────────────┬─────────────────────────────────┬───────────────────────┤
+│   Competentie    │         Mark Rutte              │     Hugo de Jonge     │
+├──────────────────┼─────────────────────────────────┼───────────────────────┤
+│ Zelfbewustzijn   │ "Ik reken het mij persoonlijk   │ "We hebben de vorige  │
+│                  │ aan" (14 dec 2021)              │ keer gesproken..."    │
+│                  │                                 │ (10 mrt 2021)         │
+├──────────────────┼─────────────────────────────────┼───────────────────────┤
+│ Zelfregulatie    │ "Hij gaat niet aftreden"        │ "Het lijkt me         │
+│                  │ (9 jul 2021)                    │ praktisch, want de    │
+│                  │                                 │ dingen gebeuren"      │
+│                  │                                 │ (9 jul 2021)          │
+├──────────────────┼─────────────────────────────────┼───────────────────────┤
+│ Empathie         │ "Ondernemers die het water aan  │ "Ik kan me voorstellen│
+│                  │ de lippen staat" (2 feb 2021)  │ dat het tegenvalt"    │
+│                  │                                 │ (9 jul 2021)          │
+├──────────────────┼─────────────────────────────────┼───────────────────────┤
+│ Sociale          │ "Die gedachten betrekken we     │ "Ik deel zeer de zorg │
+│ vaardigheden     │ erbij" (10 mrt 2021)            │ van de heer Wilders"  │
+│                  │                                 │ (10 mrt 2021)         │
+└──────────────────┴─────────────────────────────────┴───────────────────────┘
+Bron: Transcripties persconferenties en Kamerdebat (2021)
+
+
+================================================================================
+STAPPENPLAN OM TE SLAGEN
+================================================================================
+
+📌 Stap 1: Voeg de naam van de tweede beoordelaar toe op het titelblad
+
+📌 Stap 2: Voeg een korte paragraaf toe over de afbakening (waarom alleen 2021)
+          in Hoofdstuk 1 (Inleiding)
+
+📌 Stap 3: Voeg een paragraaf toe over de 'protracted crisis' fase in
+          Hoofdstuk 2 (Theoretisch Kader)
+
+📌 Stap 4: Voeg een zin toe over de multimodale congruentie in Hoofdstuk 4
+          (Resultaten)
+
+📌 Stap 5: Voeg 2-3 zinnen toe over de wetenschappelijke bijdrage in
+          Hoofdstuk 5 (Conclusies)
+
+📌 Stap 6: Corrigeer de APA-fouten in de literatuurlijst:
+          - Vervang 'en' door '&'
+          - Voeg DOI toe bij journalartikelen
+          - Sorteer alfabetisch
+
+📌 Stap 7: Voeg paginanummer toe bij het citaat op pagina 89
+
+
+================================================================================
+APA 7e EDITIE - CORRECTIE ADVIES
+================================================================================
+
+Hieronder de specifieke correcties voor jouw literatuurlijst:
+
+❌ FOUT:
+Poelmans, P. en Severijnen, O. (2022). De APA-richtlijnen. Coutinho.
+
+✅ CORRECT:
+Poelmans, P., & Severijnen, O. (2022). De APA-richtlijnen (2e druk). Coutinho.
+
+
+❌ FOUT:
+Gooty, J., Connelly, S., Griffith, J., & Gupta, A. (2010). Leadership. 
+The Leadership Quarterly, 21(6), 979-1004.
+
+✅ CORRECT:
+Gooty, J., Connelly, S., Griffith, J., & Gupta, A. (2010). Leadership, affect 
+and emotions: A state of the science review. The Leadership Quarterly, 21(6), 
+979-1004. https://doi.org/10.1016/j.leaqua.2010.10.005
+
+
+================================================================================
+BIJLAGE: APA 7e EDITIE RICHTLIJNEN (Samenvatting)
+================================================================================
+
+Bron: Poelmans, P. & Severijnen, O. (2022). De APA-richtlijnen (2e druk). Coutinho.
+
+--------------------------------------------------------------------------------
+TOP 3 MEEST GEMAAKTE FOUTEN
+--------------------------------------------------------------------------------
+
+FOUT 1: Zelfde auteur, zelfde jaar
+❌ (Daams, Schaatsers moeten..., 2024)
+✅ (Daams, 2024b)
+
+FOUT 2: Hoofdstuk zonder 'pp.'
+❌ (Bloemendal-Hol, 2010, 141-148)
+✅ (Bloemendal-Hol, 2010, pp. 141-148)
+
+FOUT 3: Organisatie als auteur - dubbele naam
+❌ RIVM. (2020). Titel. RIVM.
+✅ RIVM. (2020). Titel.
+
+
+================================================================================
+VERVOLGSTAPPEN
+================================================================================
+
+1. Verwerk bovenstaande correcties in je concept
+2. Lever de herziene versie in vóór: 1 mei 2026
+3. Na correctie verwacht eindcijfer: 8.0 - 8.5
+4. Bij vragen: maak een afspraak via e-mail
+
+Gefeliciteerd met de kwaliteit van je onderzoek! De analyse is diepgaand
+en de conclusies zijn goed onderbouwd. Met de bovenstaande kleine correcties
+is dit een uitstekende thesis.
+
+================================================================================
+EINDE RAPPORT
+================================================================================
+
+Datum gegenereerd: 15 april 2026 14:35:22
+Tool versie: Thesis Begeleider Tool v1.0
+Erasmus Universiteit Rotterdam - Master Bestuurskunde

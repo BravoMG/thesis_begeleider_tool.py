@@ -1,0 +1,83 @@
+{
+  "apa_versie": "7e editie",
+  "bron": "Poelmans, P. & Severijnen, O. (2022). De APA-richtlijnen (2e, herziene druk). Coutinho.",
+  
+  "boek_kenmerken": {
+    "verplichte_elementen": ["auteur", "jaar", "titel", "uitgever"],
+    "optionele_elementen": ["editie", "doi", "vertaler"],
+    "voorbeeld": "Poelmans, P. & Severijnen, O. (2022). De APA-richtlijnen (2e, herziene druk). Coutinho."
+  },
+  
+  "tijdschriftartikel_kenmerken": {
+    "verplichte_elementen": ["auteur", "jaar", "titel", "tijdschrift", "volume", "paginas"],
+    "optionele_elementen": ["issue", "doi", "url"],
+    "voorbeeld": "Gooty, J., Connelly, S., Griffith, J., & Gupta, A. (2010). Leadership, affect and emotions. The Leadership Quarterly, 21(6), 979-1004."
+  },
+  
+  "hoofdstuk_in_boek_kenmerken": {
+    "verplichte_elementen": ["auteur_hfdst", "jaar", "titel_hfdst", "redacteur", "titel_boek", "paginas", "uitgever"],
+    "voorbeeld": "Spreng, R. N. & Turner, G. R. (2019). Structure and function of the aging brain. In G. R. Samanez-Larkin (Ed.), The aging brain (pp. 9-43). American Psychological Association."
+  },
+  
+  "webpagina_kenmerken": {
+    "verplichte_elementen": ["auteur", "datum", "titel", "site_naam", "url"],
+    "voorbeeld": "Lendering, J. [@JonaLendering]. (2019, 27 oktober). Drie centimeter hoog beeldje... [Tweet]. Twitter. https://twitter.com/..."
+  },
+  
+  "krantenartikel_kenmerken": {
+    "verplichte_elementen": ["auteur", "datum", "titel", "krant", "paginas"],
+    "voorbeeld": "Smal, E. (2019, 26 oktober). ‘Zuck buck’ nog ver weg. NRC Handelsblad [Economie], p. 1."
+  },
+  
+  "persoonlijke_communicatie": {
+    "regel": "Alleen in tekst vermelden, niet in literatuurlijst",
+    "voorbeeld": "(Kikstra, persoonlijke communicatie, 6 maart 2020)"
+  },
+  
+  "veelgemaakte_fouten": [
+    {
+      "fout": "Ontbrekende DOI bij journalartikel",
+      "correctie": "Voeg DOI toe: https://doi.org/10.xxx/xxxx",
+      "ernst": "hoog"
+    },
+    {
+      "fout": "Geen '&' voor laatste auteur",
+      "correctie": "Gebruik '&' in plaats van 'en' bij meerdere auteurs",
+      "ernst": "gemiddeld"
+    },
+    {
+      "fout": "Jaartal op verkeerde plaats",
+      "correctie": "Jaartal direct na auteur tussen haakjes: Auteur, A. (jaar). Titel",
+      "ernst": "hoog"
+    },
+    {
+      "fout": "Hoofdletters in titel onjuist",
+      "correctie": "Alleen eerste woord en eigennamen met hoofdletter",
+      "ernst": "laag"
+    },
+    {
+      "fout": "Geen paginanummers bij krantenartikel",
+      "correctie": "Voeg p. of pp. toe voor paginanummers",
+      "ernst": "gemiddeld"
+    },
+    {
+      "fout": "Cursief gebruik onjuist",
+      "correctie": "Titel boek/tijdschrift cursief, titel artikel niet cursief",
+      "ernst": "laag"
+    }
+  ],
+  
+  "controle_regels": {
+    "max_auteurs_voordat_et_al": 3,
+    "et_al_gebruik_vanaf": 3,
+    "min_jaar": 1900,
+    "max_jaar": 2025,
+    "toegestane_talen": ["Nederlands", "Engels", "Duits", "Frans"],
+    "verplichte_onderdelen_literatuurlijst": [
+      "alle bronnen in tekst moeten in lijst staan",
+      "alle bronnen in lijst moeten in tekst genoemd zijn",
+      "alfabetische volgorde op achternaam auteur",
+      "geen nummering"
+    ]
+  }
+}

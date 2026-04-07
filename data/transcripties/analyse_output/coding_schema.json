@@ -1,0 +1,111 @@
+{
+  "onderzoek": "Emotionele Intelligentie in Publiek Crisisleiderschap",
+  "auteur": "Masterstudent Bestuurskunde",
+  "datum_analyse": "2024",
+  "coderingsschema": {
+    "zelfbewustzijn": {
+      "code": "SB",
+      "definitie": "Het herkennen van eigen emoties, sterktes, zwaktes en impact op anderen",
+      "operationalisatie": [
+        "Erkennen van eigen fouten of beperkingen",
+        "Reflecteren op eigen handelen",
+        "Verantwoordelijkheid nemen voor uitkomsten",
+        "Toon van kwetsbaarheid of twijfel"
+      ],
+      "voorbeeld_citaten": [
+        "Eén van de fouten die we toen...",
+        "ik reken het mij persoonlijk aan",
+        "100% zekerheid niet te geven"
+      ]
+    },
+    "zelfregulatie": {
+      "code": "ZR",
+      "definitie": "Het beheersen, besturen en constructief inzetten van eigen emoties onder druk",
+      "operationalisatie": [
+        "Kalme toon bij kritische vragen",
+        "Geen defensieve of impulsieve reacties",
+        "Beheerst blijven bij persoonlijke aanvallen",
+        "Stabiele lichaamshouding en stem"
+      ],
+      "voorbeeld_citaten": [
+        "Het lijkt me praktisch, want de dingen gebeuren",
+        "Hij gaat niet aftreden",
+        "Ik snap het ongeduld"
+      ]
+    },
+    "empathie": {
+      "code": "EM",
+      "definitie": "Het waarnemen, begrijpen en serieus nemen van emoties van anderen",
+      "operationalisatie": [
+        "Expliciet erkennen van publieke emoties",
+        "Benoemen van impact op specifieke groepen",
+        "Gebruik van herkenbare, alledaagse taal",
+        "Actief luisteren en reageren op zorgen"
+      ],
+      "voorbeeld_citaten": [
+        "Ondernemers die het water aan de lippen staat",
+        "Ik deel zeer de zorg van de heer Wilders",
+        "Ik kan me voorstellen dat... achteraf tegenvalt"
+      ]
+    },
+    "sociale_vaardigheden": {
+      "code": "SV",
+      "definitie": "Het opbouwen van relaties, beïnvloeden van mensen, managen van conflicten",
+      "operationalisatie": [
+        "Verwijzen naar samenwerkingspartners",
+        "Uitspreken van waardering voor anderen",
+        "Beschermen van collega's",
+        "Zoeken naar verbinding en compromis"
+      ],
+      "voorbeeld_citaten": [
+        "Gezamenlijk werk van kabinet, OMT en hulpverleners",
+        "Hij gaat niet aftreden",
+        "Die gedachten betrekken we erbij"
+      ]
+    }
+  },
+  "analyse_momenten": [
+    {
+      "datum": "2021-02-02",
+      "type": "Persconferentie",
+      "code": "PC1",
+      "belangrijkste_thema": "Start vaccinaties, verlenging lockdown"
+    },
+    {
+      "datum": "2021-03-10",
+      "type": "Kamerdebat",
+      "code": "KD1",
+      "belangrijkste_thema": "Politieke verantwoording, vaccinatiestrategie"
+    },
+    {
+      "datum": "2021-03-23",
+      "type": "Persconferentie",
+      "code": "PC2",
+      "belangrijkste_thema": "Geen Pasen versoepelingen, derde golf"
+    },
+    {
+      "datum": "2021-07-09",
+      "type": "Persconferentie",
+      "code": "PC3",
+      "belangrijkste_thema": "Delta variant, aanscherpingen"
+    },
+    {
+      "datum": "2021-09-14",
+      "type": "Persconferentie",
+      "code": "PC4",
+      "belangrijkste_thema": "Coronatoegangsbewijs, anderhalve meter los"
+    },
+    {
+      "datum": "2021-12-14",
+      "type": "Persconferentie",
+      "code": "PC5",
+      "belangrijkste_thema": "Omikron variant, boostercampagne"
+    }
+  ],
+  "kwantitatieve_analyse": {
+    "totaal_fragmenten": 2673,
+    "verdeling_rutte": 1056,
+    "verdeling_de_jonge": 1617,
+    "multimodale_congruentie": "hoog"
+  }
+}

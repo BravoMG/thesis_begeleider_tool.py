@@ -1,0 +1,81 @@
+{
+  "bron": "SeniorWeb.nl (2020, 9 juni). Inhoudsopgave maken met Word.",
+  "kopstijlen": {
+    "Kop 1": {
+      "gebruik": "Hoofdstuktitels",
+      "voorbeeld": "1. Inleiding, 2. Theorie, 3. Methode",
+      "opmaak": "Vet, groot lettertype",
+      "in_inhoudsopgave": true,
+      "niveau": 1
+    },
+    "Kop 2": {
+      "gebruik": "Paragrafen binnen een hoofdstuk",
+      "voorbeeld": "1.1 Aanleiding, 1.2 Probleemstelling",
+      "opmaak": "Vet, kleiner dan Kop 1",
+      "in_inhoudsopgave": true,
+      "niveau": 2
+    },
+    "Kop 3": {
+      "gebruik": "Subparagrafen",
+      "voorbeeld": "1.2.1 Hoofdvraag, 1.2.2 Deelvragen",
+      "opmaak": "Cursief of normaal",
+      "in_inhoudsopgave": true,
+      "niveau": 3
+    },
+    "Titel": {
+      "gebruik": "Alleen voor de titel van het document",
+      "voorbeeld": "Masterscriptie Bestuurskunde",
+      "in_inhoudsopgave": false
+    }
+  },
+  "stappenplan": {
+    "stap1": "Selecteer de tekst die een kop moet worden",
+    "stap2": "Ga naar het tabblad 'Start'",
+    "stap3": "Klik in het vak 'Stijlen' op de gewenste kopstijl (Kop 1, Kop 2 of Kop 3)",
+    "stap4": "Herhaal voor alle koppen in het document",
+    "stap5": "Klik op de plek waar de inhoudsopgave moet komen",
+    "stap6": "Ga naar het tabblad 'Verwijzingen'",
+    "stap7": "Klik op 'Inhoudsopgave'",
+    "stap8": "Selecteer 'Automatische inhoudsopgave 2'"
+  },
+  "bijwerken": {
+    "wanneer": "Altijd vlak voor het inleveren",
+    "hoe": "Klik op de inhoudsopgave → 'Bijwerken' → 'In zijn geheel bijwerken' → OK"
+  },
+  "veelgemaakte_fouten": [
+    {
+      "fout": "Kop verschijnt niet in inhoudsopgave",
+      "oorzaak": "Geen kopstijl toegepast",
+      "oplossing": "Selecteer de tekst en kies Kop 1, Kop 2 of Kop 3"
+    },
+    {
+      "fout": "Paginanummers kloppen niet",
+      "oorzaak": "Inhoudsopgave niet bijgewerkt na wijzigingen",
+      "oplossing": "Klik op 'Bijwerken' → 'In zijn geheel bijwerken'"
+    },
+    {
+      "fout": "Titel staat in inhoudsopgave",
+      "oorzaak": "Verkeerde stijl gebruikt voor titel",
+      "oplossing": "Verander de stijl van de titel naar 'Titel'"
+    },
+    {
+      "fout": "Verkeerd inspringniveau",
+      "oorzaak": "Verkeerde kopstijl gekozen",
+      "oplossing": "Wijzig Kop 2 naar Kop 1 of andersom"
+    },
+    {
+      "fout": "Inhoudsopgave is handmatig getypt",
+      "oorzaak": "Automatische functie niet gebruikt",
+      "oplossing": "Verwijder de handmatige inhoudsopgave en volg het stappenplan"
+    }
+  ],
+  "checklist": [
+    "Alle hoofdstuktitels hebben de stijl 'Kop 1'",
+    "Alle paragrafen hebben de stijl 'Kop 2'",
+    "Alle subparagrafen hebben de stijl 'Kop 3' (indien van toepassing)",
+    "De titel van het document heeft de stijl 'Titel'",
+    "Inhoudsopgave is ingevoegd via Verwijzingen → Inhoudsopgave",
+    "Inhoudsopgave is vóór het inleveren bijgewerkt",
+    "Paginanummers kloppen met de werkelijke paginering"
+  ]
+}

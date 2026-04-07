@@ -1,0 +1,91 @@
+{
+  "bron": "Handleiding Academisch schrijven & presenteren - Biomedische wetenschappen (2025-2026). Universiteit Utrecht.",
+  "schrijfstructuur": {
+    "zandlopermodel": {
+      "inleiding": "Van groot (brede context) naar klein (specifieke vraagstelling)",
+      "midden": "Materialen & methoden + Resultaten (smalle deel)",
+      "discussie": "Van klein (beantwoording vraag) naar groot (betekenis voor veld en maatschappij)"
+    },
+    "imrd": {
+      "I": "Introductie - probleemgebied, relevantie, onderzoeksvraag",
+      "M": "Materialen & methoden - hoe is het uitgevoerd",
+      "R": "Resultaten - wat is gevonden",
+      "D": "Discussie & conclusie - wat betekent het"
+    }
+  },
+  "argumentatiestructuur": {
+    "meervoudige_argumentatie": ["Ten eerste", "Ten tweede", "Ten slotte", "Bovendien", "Daarnaast"],
+    "onderschikkende_argumentatie": ["Want", "Omdat", "Dat blijkt uit", "Aangezien"],
+    "nevenschikkende_argumentatie": ["Bovendien", "Daarbij komt", "Ook gezien het feit", "Wat nog belangrijker is"],
+    "tegenstellingen": ["Daarentegen", "Echter", "Maar", "Hoewel", "Anderzijds", "Terwijl", "In tegenstelling tot"],
+    "resultaat_of_effect": ["Dus", "Daarom", "Derhalve", "Vandaar"],
+    "samenvatting_afsluiting": ["Samengevat", "Dus", "Kortom", "Tot slot"]
+  },
+  "alinea_structuur": {
+    "regels": [
+      "Begint met een witregel OF inspringing",
+      "Bevat één boodschap",
+      "Eerste zin geeft aan waar de alinea over gaat",
+      "Afronding in de vorm van een samenvatting of conclusie",
+      "Kan niet eindigen met nieuwe informatie"
+    ],
+    "lengte": "Minstens 2 zinnen, maximaal een halve pagina"
+  },
+  "schrijfstijl": {
+    "objectief": [
+      "Geen waardeoordeel (helaas, gelukkig, mooi)",
+      "Geen subjectieve kwalificaties (ontzettend veel, zoals duidelijk is te zien)"
+    ],
+    "formeel": [
+      "Geen metaforen of spreektaal",
+      "Spreek de lezer niet aan",
+      "Passieve of actieve en neutrale werkwoordsvorm"
+    ],
+    "helder": [
+      "Wees zo precies en specifiek mogelijk",
+      "Houd rekening met wetenschappelijke onzekerheid"
+    ],
+    "volledig": [
+      "Alle informatie die nodig is om conclusies te controleren",
+      "Experiment moet repliceerbaar zijn"
+    ],
+    "bondig": [
+      "Geen overbodige informatie",
+      "Voorkom dubbele informatie"
+    ]
+  },
+  "actieve_schrijfstijl": {
+    "voorbeeld_passief": "De kans op haarverlies wordt vergroot door vitamine A",
+    "voorbeeld_actief": "Vitamine A vergroot de kans op haarverlies",
+    "opmerking": "Vermijd veelvuldig gebruik van 'wij' of 'ik'"
+  },
+  "cijfers_en_eenheden": {
+    "regels": [
+      "Cijfers onder de 10 worden voluit geschreven (behalve bij maten, tijd, datum, leeftijd, scores, rekengetallen, verwijzingen naar figuren)",
+      "Cijfer aan begin van zin voluit schrijven",
+      "Eenheden volgens SI-systeem, met spatie tussen getal en eenheid (0,5 mg)",
+      "Getallen met decimalen in Nederlands met komma (3,8)"
+    ]
+  },
+  "afkortingen": {
+    "regel": "Term eerste keer volledig uitschrijven, gevolgd door afkorting tussen haakjes",
+    "uitzondering": "Minder dan 5 keer gebruikt? Niet afkorten"
+  },
+  "veelgemaakte_fouten": [
+    {
+      "fout": "Anglicismen in Nederlandse tekst",
+      "voorbeeld": "pathway, linked, staining",
+      "correctie": "Gebruik Nederlandse termen"
+    },
+    {
+      "fout": "Voorzetseluitdrukkingen",
+      "voorbeeld": "met betrekking tot, door middel van, als gevolg van, in verband met",
+      "correctie": "Vervang door: over/voor, door, door, omdat"
+    },
+    {
+      "fout": "Dubbele informatie",
+      "voorbeeld": "zoals de voorgaande resultaten lieten zien...",
+      "correctie": "Laat dergelijke formulering achterwege"
+    }
+  ]
+}

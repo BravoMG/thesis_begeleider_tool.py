@@ -1,0 +1,68 @@
+================================================================================
+AI-LOGBOEK - Verplicht volgens REBO-richtlijnen (2025)
+================================================================================
+Naam: [Jouw naam]
+Studentnummer: [Jouw nummer]
+Titel: [Titel scriptie]
+
+Doel van dit logboek: Ik houd hier bij welke AI-tools ik heb gebruikt tijdens het
+schrijven van mijn scriptie. Ik gebruik AI alleen voor toegestane doeleinden (zie
+richtlijnen). Dit logboek kan mijn begeleider op verzoek inzien.
+
+================================================================================
+LOGBOEK ENTRIES
+================================================================================
+
+--------------------------------------------------------------------------------
+Entry 1
+--------------------------------------------------------------------------------
+Datum:       2026-03-15
+AI-tool:     ChatGPT (GPT-4, OpenAI, https://chat.openai.com)
+Doel:        Brainstormen over mogelijke deelvragen voor literatuuronderzoek.
+Input (Prompt): "Ik schrijf een scriptie over emotionele intelligentie bij
+             Nederlandse politici tijdens de COVID-19 crisis. Geef mij 5
+             mogelijke deelvragen voor het theoretische kader."
+Output:      De tool gaf 5 suggesties, waaronder: "Hoe wordt emotionele
+             intelligentie gemeten in de context van crisisleiderschap?" en
+             "Welke rol speelt empathie in publieke communicatie?"
+Reflectie:   De suggesties hielpen mij om breder te denken. Uiteindelijk heb ik
+             een eigen deelvraag geformuleerd: "Welke kenmerken van emotionele
+             intelligentie zijn zichtbaar in het gedrag van Rutte en De Jonge?"
+             De AI-output is niet direct overgenomen.
+
+--------------------------------------------------------------------------------
+Entry 2
+--------------------------------------------------------------------------------
+Datum:       2026-03-22
+AI-tool:     Elicit (https://elicit.org)
+Doel:        Verkennen van literatuur over 'emotionele intelligentie' en
+             'publiek leiderschap'.
+Input (Prompt): "Find academic papers on emotional intelligence and public
+             leadership during crises."
+Output:      Een lijst met 10 papers, inclusief samenvattingen en citaties.
+Reflectie:   Ik heb de lijst gebruikt als startpunt. Alle papers zijn door mij
+             zelf volledig gelezen en beoordeeld op relevantie. De samenvattingen
+             van Elicit zijn niet gebruikt als bron.
+
+--------------------------------------------------------------------------------
+Entry 3
+--------------------------------------------------------------------------------
+Datum:       2026-04-05
+AI-tool:     Grammarly Premium
+Doel:        Controleren van grammatica en stijl van de definitieve versie.
+Input (Prompt): Volledige tekst van hoofdstuk 1 en 2 (eigen werk).
+Output:      Suggesties voor 12 grammaticale correcties en 8 stijlverbeteringen.
+Reflectie:   Ik heb alle suggesties handmatig beoordeeld. De meeste heb ik
+             overgenomen, maar enkele stijlsuggesties heb ik genegeerd omdat ze
+             mijn eigen schrijfstijl te veel zouden veranderen.
+
+================================================================================
+VERKLARING
+================================================================================
+Ik verklaar dat bovenstaande logboek een volledig en accuraat overzicht geeft
+van mijn gebruik van AI-tools tijdens het schrijven van mijn scriptie.
+Ik ben verantwoordelijk voor alle ingeleverde inhoud.
+
+Handtekening: [Jouw handtekening]
+Datum:        [Datum van vandaag]
+================================================================================

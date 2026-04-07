@@ -1,0 +1,67 @@
+{
+  "bron": "Handleiding Academisch schrijven & presenteren (2025-2026) - Hoofdstuk 15",
+  "figuren_en_tabellen": {
+    "basisregels": [
+      "Genummerd en voorzien van korte maar informatieve titel",
+      "Bevat uitleg in legenda",
+      "Bevat referentie indien van toepassing",
+      "Is leesbaar (niet te klein)",
+      "Valt binnen marges van bladzijden",
+      "Wordt beschreven en naar verwezen in hoofdtekst"
+    ]
+  },
+  "grafiektypen": {
+    "lijngrafiek": {
+      "gebruik": "Verandering over tijd",
+      "voorbeeld": "Concentratie Y is toegenomen na behandeling X"
+    },
+    "staafdiagram": {
+      "gebruik": "Absolute verschillen tussen groepen",
+      "variant": "Column scatter plot voor spreiding binnen groep"
+    },
+    "scatterplot": {
+      "gebruik": "Correlaties tussen variabelen"
+    }
+  },
+  "grafiek_opmaak": {
+    "as_titel": "Inclusief eenheid (alleen in titel, niet bij getallen op as)",
+    "schaalverdeling": "Passend bij data, effect moet zichtbaar zijn",
+    "breuklijn": "Gebruiken wanneer as niet bij nul begint",
+    "legenda": "Duidelijk verschil tussen groepen (kleuren, symbolen, lijnen)",
+    "foutbalken": "Altijd toevoegen bij gemiddelde waarden (SD of SEM)",
+    "significantie": "Aangeven tussen welke groepen significant verschil is",
+    "bijschrift": "Titel + beschrijving experiment, steekproefgrootte (n=), wat de grafiek weergeeft"
+  },
+  "tabel_opmaak": {
+    "tips": [
+      "Niet te veel rijen en kolommen",
+      "Parameter met eenheid in linkerkolom en/of bovenste regel",
+      "Getallen precies onder elkaar",
+      "Beperk 'versieringen' (kleuren, lijnen, arceringen)",
+      "Eenheid aanpassen of wetenschappelijke notatie voor leesbaarheid",
+      "Steekproefgrootte (n) en foutenmarge vermelden",
+      "Bovenschrift met samenvattende titel"
+    ],
+    "voorbeeld_tabel": "Tabel 1: Gemiddelde expressie van eiwit X na stimulatie met stof Y (n=6, ± SD)"
+  },
+  "checklist_grafiek": [
+    "☐ Juiste grafiektype gekozen bij boodschap",
+    "☐ X-as en Y-as hebben duidelijke titel met eenheid",
+    "☐ Schaalverdeling is passend (effect is zichtbaar)",
+    "☐ Breuklijn toegevoegd indien as niet bij nul begint",
+    "☐ Verschillende groepen zijn duidelijk te onderscheiden (kleur, symbool, lijn)",
+    "☐ Legenda aanwezig en duidelijk",
+    "☐ Foutbalken aanwezig bij gemiddelden (met SD of SEM)",
+    "☐ Significantie aangegeven (sterretjes of letters)",
+    "☐ Bijschrift met titel en uitleg, inclusief n-getal"
+  ],
+  "checklist_tabel": [
+    "☐ Tabel is overzichtelijk (niet te veel rijen/kolommen)",
+    "☐ Parameter met eenheid in kopregel of eerste kolom",
+    "☐ Getallen staan netjes onder elkaar",
+    "☐ Geen overbodige opmaak (rustige lay-out)",
+    "☐ Steekproefgrootte (n) vermeld",
+    "☐ Foutenmarge (SD/SEM) vermeld",
+    "☐ Bovenschrift met samenvattende titel"
+  ]
+}
