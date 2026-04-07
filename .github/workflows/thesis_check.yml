@@ -1,4 +1,4 @@
-name: 🔍 Thesis Begeleider - Automatische Check
+name: "🔍 Thesis Begeleider - Automatische Check"
 
 on:
   push:
@@ -10,31 +10,31 @@ on:
 jobs:
   beoordeling:
     runs-on: ubuntu-latest
-    name: Voer thesisbeoordeling uit
+    name: "Voer thesisbeoordeling uit"
     
     steps:
-      - name: 📥 Checkout repository
+      - name: "📥 Checkout repository"
         uses: actions/checkout@v4
 
-      - name: 🐍 Setup Python
+      - name: "🐍 Setup Python"
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
-      - name: 📦 Installeer dependencies
+      - name: "📦 Installeer dependencies"
         run: |
           python -m pip install --upgrade pip
 
-      - name: 🧪 Draai unittesten
+      - name: "🧪 Draai unittesten"
         run: |
           python -m unittest discover -s test -v || true
 
-      - name: 📘 Voer thesisbegeleider tool uit
+      - name: "📘 Voer thesisbegeleider tool uit"
         run: |
           python thesis_begeleider_tool.py
         id: thesis_check
 
-      - name: 📊 Genereer rapport
+      - name: "📊 Genereer rapport"
         if: always()
         run: |
           mkdir -p rapporten
@@ -45,7 +45,7 @@ with open('rapporten/check_resultaat.txt', 'w') as f:
     f.write('Zie console output voor details\n')
 "
 
-      - name: 📤 Upload rapport
+      - name: "📤 Upload rapport"
         if: always()
         uses: actions/upload-artifact@v4
         with:
@@ -53,7 +53,7 @@ with open('rapporten/check_resultaat.txt', 'w') as f:
           path: rapporten/
           retention-days: 30
 
-      - name: ✅ Notificatie
+      - name: "✅ Notificatie"
         if: failure()
         run: |
           echo "⚠️ Thesis check heeft feedback opgeleverd. Bekijk de logs."
