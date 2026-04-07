@@ -2,9 +2,9 @@ name: 🔍 Thesis Begeleider - Automatische Check
 
 on:
   push:
-    branches: [ main, master, develop ]
+    branches: [ master, main ]
   pull_request:
-    branches: [ main, master ]
+    branches: [ master, main ]
   workflow_dispatch:
 
 jobs:
@@ -27,7 +27,7 @@ jobs:
 
       - name: 🧪 Draai unittesten
         run: |
-          python -m unittest discover -s tests -v || true
+          python -m unittest discover -s test -v || true
 
       - name: 📘 Voer thesisbegeleider tool uit
         run: |
